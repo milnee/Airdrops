@@ -1,0 +1,10 @@
+permission-denied: '&cPermission denied.'
+deploying: 'Airdrop deploying in &3{count}&r..'
+deployed: '&3Airdrop deployed.'
+height-air: '&cThere must be 30 air blocks above to deploy.'
+airdrop-name: '&3Airdrop'
+#placeholder: {date}
+airdrop-lore:
+  - '&7Obtained on {date}.'
+#default is 9, as it's a full dispenser.
+slots-amount: 9

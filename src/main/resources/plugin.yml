@@ -1,0 +1,24 @@
+name: Airdrops
+version: '1.0'
+main: me.millen.airdrops.Base
+author: Millen
+commands:
+  airdrops:
+    description: Main command
+    permission: airdrops.use
+    default: true
+permissions:
+  airdrops.use:
+    description: Place airdrops and use /airdrops command.
+    default: true
+  airdrops.loot:
+    description: Use /airdrops loot to see loot.
+    default: true
+  airdrops.editloot:
+    description: Ability to modify the loot inventory with /airdrops loot
+  airdrops.give:
+    description: Use /airdrops give
+  airdrops.item:
+    description: Use of /airdrops item
+  airdrops.reload:
+    description: Use of /airdrops reload
